@@ -5,7 +5,7 @@ Embark on a quest through dark forests, mysterious caves, and hidden treasures. 
 
 ---
 
-## 🌟 Features
+## 🌟 Features 
 
 ✅ **Interactive Storyline**  
 Navigate through branching story paths based on your decisions.
@@ -19,7 +19,7 @@ Find treasure, escape traps, battle dragons — or meet your doom.
 ✅ **Restart or Quit Anytime**  
 Choose to start over or end your journey whenever you like.
 
----
+--- 
 
 ## 🚀 Demo
 
