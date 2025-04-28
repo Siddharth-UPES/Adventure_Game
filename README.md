@@ -19,6 +19,17 @@ Welcome to **Adventure Game**, an immersive text-based journey where your choice
 ### Play Online
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://adventuregame-dkcl3u6tajsyhptxr6zdjw.streamlit.app/)
 
+
+### 📦 Project Structure
+adventure-game/
+├── assets/               # Game images and icons
+├── story/               # Narrative scripts
+│   ├── chapter1.json
+│   └── endings.json
+├── adventure_game.py     # Main game logic
+├── requirements.txt      # Dependencies
+└── README.md            # This file
+
 ### Run Locally
 ```bash
 # Clone repository
