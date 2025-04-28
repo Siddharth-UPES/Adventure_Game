@@ -1,52 +1,32 @@
-# 🎮 Adventure Game
+# 🎮 Adventure Game - A Python Text-Based Adventure
 
-Welcome to the **Adventure Game** — a thrilling, text-based journey built with **Python** and **Streamlit**.  
-Embark on a quest through dark forests, mysterious caves, and hidden treasures. Every decision you make shapes your destiny!
+![Game Banner](https://via.placeholder.com/1200x400.png?text=Adventure+Game+-+Choose+Your+Path+Wisely)
 
----
+Welcome to **Adventure Game**, an immersive text-based journey where your choices determine your fate! Built with Python and Streamlit, this interactive experience combines classic storytelling with modern web technology.
 
-## 🌟 Features 
+## 🌟 Key Features
 
-✅ **Interactive Storyline**  
-Navigate through branching story paths based on your decisions.
+| Feature | Description |
+|---------|-------------|
+| � **Branching Narrative** | 50+ decision points creating unique story paths |
+| 🏆 **Multiple Endings** | 8 possible conclusions with varying difficulty |
+| 🎨 **Streamlit UI** | Clean, responsive interface with emoji visuals |
+| ⏱️ **Session Management** | Save progress or restart anytime |
+| 🎲 **Random Events** | Dynamic encounters for replayability |
 
-✅ **Simple UI with Streamlit**  
-An intuitive and lightweight web interface for seamless gameplay.
+## 🚀 Quick Start
 
-✅ **Multiple Endings**  
-Find treasure, escape traps, battle dragons — or meet your doom.
+### Play Online
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://adventuregame-dkcl3u6tajsyhptxr6zdjw.streamlit.app/)
 
-✅ **Restart or Quit Anytime**  
-Choose to start over or end your journey whenever you like.
-
---- 
-
-## 🚀 Demo
-
-Click to play instantly — no download required:  
-👉 [**Play Adventure Game Online**](https://adventuregame-dkcl3u6tajsyhptxr6zdjw.streamlit.app/)
-
----
-
-## 🖼️ Screenshots
-
-### 🏞️ Starting Scene
-![start](https://via.placeholder.com/700x300.png?text=Welcome+to+the+Adventure+Game)
-
-### 💡 Choice Example
-![choices](https://via.placeholder.com/700x300.png?text=Two+Paths%3A+Left+or+Right%3F)
-
-> 📸 *You can replace the placeholders with actual screenshots from your deployed app.*
-
----
-
-## 🛠️ Installation & Run Locally
-
-### Prerequisites
-- Python 3.8+
-- pip (Python package manager)
-
-### Install Dependencies
+### Run Locally
 ```bash
-pip install streamlit
+# Clone repository
+git clone https://github.com/yourusername/adventure-game.git
+cd adventure-game
 
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch game
+streamlit run adventure_game.py
